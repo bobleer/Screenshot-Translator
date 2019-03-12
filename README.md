@@ -1,1 +1,8 @@
-# -macOS-Screenshot-Translator
+# Screenshot-Translator
+
+## Preview
+
+## Requirements
+
+## Install
+
