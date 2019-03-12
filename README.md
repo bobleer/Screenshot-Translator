@@ -1,6 +1,6 @@
 # Screenshot-Translator
 
-An Alfred workflow for translating screenshot by employing -[Translate Tab.app](http://translate-tab.com/) and -[Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+An Alfred workflow for translating screenshot by employing [Translate Tab.app](http://translate-tab.com/) and [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 
 ## Preview
 
@@ -12,9 +12,9 @@ An Alfred workflow for translating screenshot by employing -[Translate Tab.app](
 
 ## Requirements
 
-1. -[Alfred3.app](https://www.alfredapp.com/)
-2. -[Translate Tab.app](http://translate-tab.com/)
-3. -[Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+1. [Alfred3.app](https://www.alfredapp.com/)
+2. [Translate Tab.app](http://translate-tab.com/)
+3. [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 
 ## Install Workflow
 
