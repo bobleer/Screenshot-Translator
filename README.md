@@ -32,3 +32,4 @@ Finished!
 NOTE:
 1. The screenshots will not be saved by default.
 2. Using workflow will cover clipboard content. 
+3. Translate Tab is hard to use in China.
