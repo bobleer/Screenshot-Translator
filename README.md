@@ -18,3 +18,14 @@ An Alfred workflow for translating screenshot by employing [Translate Tab.app](h
 
 ## Install Workflow
 
+1. [Download workflow](https://github.com/bobleer/Screenshot-Translator/raw/master/QuickTranslate.alfredworkflow)
+2. Click and import it to Alfred Workflow
+3. Modify Translate Tab setting to 'Automatically translate clipboard'
+Finished!
+
+**Then double click `⌘command` to launch screenshot and translator.**
+
+NOTE:
+1. You can change hotkey on Alfred workflow page.
+2. The screenshots will not be saved by default.
+
