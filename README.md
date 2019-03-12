@@ -16,6 +16,10 @@ An Alfred workflow for translating screenshot by employing [Translate Tab.app](h
 2. [Translate Tab.app](http://translate-tab.com/)
 3. [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 
+```console
+brew install tesseract
+```
+
 ## Install Workflow
 
 1. [Download workflow](https://github.com/bobleer/Screenshot-Translator/raw/master/QuickTranslate.alfredworkflow)
