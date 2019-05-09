@@ -26,7 +26,7 @@ brew install tesseract
 
 1. [Download this workflow](https://github.com/bobleer/Screenshot-Translator/raw/master/QuickTranslate.alfredworkflow)
 2. Click and import it to Alfred Workflow, and set a hothey you want
-3. Download [textclean.py]()
+3. Download [textclean.py](https://raw.githubusercontent.com/bobleer/Screenshot-Translator/master/textclean.py)
 3. Modify Translate Tab setting to 'Automatically translate clipboard'
 Finished!
 
