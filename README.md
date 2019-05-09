@@ -15,7 +15,8 @@ An Alfred workflow for translating screenshot by employing [Translate Tab.app](h
 0. macOS...
 1. [Alfred3.app](https://www.alfredapp.com/)
 2. [Translate Tab.app](http://translate-tab.com/)
-3. [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+3. [Tesseract-ocr (Open Source)](https://github.com/tesseract-ocr/tesseract)
+4. [Plain Clip (Open Source)](https://www.bluem.net/en/projects/plain-clip/)
 
 ```console
 brew install tesseract
@@ -25,6 +26,7 @@ brew install tesseract
 
 1. [Download this workflow](https://github.com/bobleer/Screenshot-Translator/raw/master/QuickTranslate.alfredworkflow)
 2. Click and import it to Alfred Workflow, and set a hothey you want
+3. Download [textclean.py]()
 3. Modify Translate Tab setting to 'Automatically translate clipboard'
 Finished!
 
