@@ -13,7 +13,7 @@ An Alfred workflow for translating screenshot by employing [Translate Tab.app](h
 ## Requirements
 
 0. macOS...
-1. [Alfred3.app](https://www.alfredapp.com/)
+1. [Alfred3.app (Basic Version is Free)](https://www.alfredapp.com/)
 2. [Translate Tab.app](http://translate-tab.com/)
 3. [Tesseract-ocr (Open Source)](https://github.com/tesseract-ocr/tesseract)
 4. [Plain Clip (Open Source)](https://www.bluem.net/en/projects/plain-clip/)
