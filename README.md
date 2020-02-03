@@ -1,4 +1,4 @@
-# Screenshot-Translator
+# Screenshot-Translator (macOS)
 
 An Alfred workflow for translating screenshot by employing [Translate Tab.app](http://translate-tab.com/) and [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 
